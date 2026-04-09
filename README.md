@@ -84,8 +84,11 @@ Enable data-driven decision-making
 Enhance supply chain visibility
 
 👨‍💼 Author
+
 Zaid Shaikh
+
 Business Analyst Intern
 
 Guided by: Saiprasad Kagne
+
 Internship: Unified Mentor
