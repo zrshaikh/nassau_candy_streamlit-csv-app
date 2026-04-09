@@ -87,5 +87,5 @@ Enhance supply chain visibility
 Zaid Shaikh
 Business Analyst Intern
 
-Guided by: Ankit
+Guided by: Saiprasad Kagne
 Internship: Unified Mentor
